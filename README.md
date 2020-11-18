@@ -1,2 +1,3 @@
-# Tentamen2
-Komplettering tentamen HTML &amp; CSS
+# Tentamen
+Uppgift Tentamen för kursen HTML CSS
+Aki Maijala
